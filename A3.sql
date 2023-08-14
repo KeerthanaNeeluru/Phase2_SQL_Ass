@@ -74,9 +74,8 @@ create function DiscountedValue(
 returns float
 as
 begin
-declare @DValue float
-set @DValue=@price-(@price*(@discount/100))
-return ( @DValue  )
-end
 
+return (@price-(@price*(@discount/100))  )
+end
+drop function  dbo.DiscountedValue
 select Pid,PPrice,Discount,dbo.DiscountedValue(PPrice,Discount)as Price_After_Discount  from Products
