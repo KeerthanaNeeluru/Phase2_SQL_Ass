@@ -36,11 +36,15 @@ end
 exec GetTotalPrice
 --------------------------------------------------------------------------
 create proc GetTotalTax
-@tax float,
+@company varchar(50),
 @TotalTax float output
 with encryption
 as 
-begin
-select @TotalTax=sum(PTax) from Products group by PCompany
+select @TotalTax=sum(PTax) from Products where PCompany=@company
+
+
+declare @TaxCount float
+exec GetTotalTax 'Apple',@TaxCount output
+print @TaxCount
 
 
