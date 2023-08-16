@@ -11,7 +11,7 @@ create table Products
 	constraint PQty check (PQty>=1),
 	constraint PCompany check (PCompany in  ('Samsung','Apple','Redmi','HTC','RealMe','Xiomi'))
 )
---drop table Products
+
 
 insert into Products(PName,PPrice,PCompany) values ('EarPods',800,'Samsung'),
 													('Screen gaurd',1200,'Apple'),
