@@ -1,0 +1,8 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\simpliearn_mysql\Assignments\A6\A6\A6\bin\Debug\A6.exe.config
+C:\Users\Keerthana\OneDrive\Desktop\job\simpliearn_mysql\Assignments\A6\A6\A6\bin\Debug\A6.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpliearn_mysql\Assignments\A6\A6\A6\bin\Debug\A6.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\simpliearn_mysql\Assignments\A6\A6\A6\obj\Debug\A6.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpliearn_mysql\Assignments\A6\A6\A6\obj\Debug\A6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpliearn_mysql\Assignments\A6\A6\A6\obj\Debug\A6.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpliearn_mysql\Assignments\A6\A6\A6\obj\Debug\A6.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpliearn_mysql\Assignments\A6\A6\A6\obj\Debug\A6.pdb
