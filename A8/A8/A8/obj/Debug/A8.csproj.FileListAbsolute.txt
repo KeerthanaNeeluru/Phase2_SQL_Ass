@@ -1,0 +1,13 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\simpliearn_mysql\classes\Day8\A8\A8\bin\Debug\A8.exe.config
+C:\Users\Keerthana\OneDrive\Desktop\job\simpliearn_mysql\classes\Day8\A8\A8\bin\Debug\A8.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpliearn_mysql\classes\Day8\A8\A8\bin\Debug\A8.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\simpliearn_mysql\classes\Day8\A8\A8\bin\Debug\EntityFramework.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\simpliearn_mysql\classes\Day8\A8\A8\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\simpliearn_mysql\classes\Day8\A8\A8\bin\Debug\EntityFramework.xml
+C:\Users\Keerthana\OneDrive\Desktop\job\simpliearn_mysql\classes\Day8\A8\A8\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Keerthana\OneDrive\Desktop\job\simpliearn_mysql\classes\Day8\A8\A8\obj\Debug\A8.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpliearn_mysql\classes\Day8\A8\A8\obj\Debug\A8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpliearn_mysql\classes\Day8\A8\A8\obj\Debug\A8.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpliearn_mysql\classes\Day8\A8\A8\obj\Debug\A8.csproj.CopyComplete
+C:\Users\Keerthana\OneDrive\Desktop\job\simpliearn_mysql\classes\Day8\A8\A8\obj\Debug\A8.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpliearn_mysql\classes\Day8\A8\A8\obj\Debug\A8.pdb
