@@ -12,3 +12,5 @@ create table Books
 
 insert into Books values(1,'The Hidden Hindu Triology','Akshat Gupta','Religious & Spiritual Fiction',3),
 						(2,'Moving target','Christina Diaz Gonzalez','Children Stories',2)
+
+select * from Books
