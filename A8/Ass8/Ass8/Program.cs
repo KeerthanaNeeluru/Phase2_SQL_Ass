@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Ass8;
+using System;
 using System.Collections.Generic;
 using System.Data.Entity.Migrations.Sql;
 using System.Data.SqlTypes;
