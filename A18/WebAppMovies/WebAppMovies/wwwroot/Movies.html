@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+    <title></title>
+</head>
+<body>
+    <h2 class="text-center bg-warning text-white m-2">Movie data</h2>
+    <form id="createmovieform" class="m-2">
+        <label for="Title" class="form-label">Title : </label>
+        <input type="text" class="form-control" id="Title" name="Title" required /><br />
+        <label for="Director" class="form-label">Director : </label>
+        <input type="text" class="form-control" id="Director" name="Director" required /><br />
+        <label for="Hero" class="form-label">Hero : </label>
+        <input type="text" class="form-control" id="Hero" name="Hero" required /><br />
+        <label for="Heroine" class="form-label">Heroine : </label>
+        <input type="text" class="form-control" id="Heroine" name="Heroine" required /><br />
+        <button type="submit" class="btn btn-outline-info">Add Movie</button>
+    </form>
+    <h2>Update</h2>
+    <form id="updatemovieform">
+        <label for="Id" class="form-label">Movie Id : </label>
+        <input type="number" id="Id" name="Id" class="form-control" required /><br />
+        <label for="NewTitle" class="form-label">NewTitle : </label>
+        <input type="text" class="form-control" id="NewTitle" name="NewTitle" required /><br />
+        <button type="submit" class="btn btn-outline-info">Update Movie</button>
+    </form>
+    <h2>Delete</h2>
+    <form id="deletemovieform">
+        <label for="DeleteId" class="form-label">Movie Id : </label>
+        <input type="number" id="DeleteId" name="DeleteId" class="form-control" required /><br />
+        <button type="submit" class="btn btn-outline-info">delete Movie</button>
+    </form>
+    <script src="wwwroot/js/JavaScript.js"></script>
+</body>
+</html>
